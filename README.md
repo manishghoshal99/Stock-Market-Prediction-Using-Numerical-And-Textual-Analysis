@@ -3,15 +3,15 @@
 <br>
 
 > Problem Statement:
-- Objective: Create a hybrid model for stock price/performance prediction
+⦿ Objective: Create a hybrid model for stock price/performance prediction
 using numerical analysis of historical stock prices, and sentimental analysis of
 news headlines <br>
-- Stock to analyze and predict - SENSEX (S&P BSE SENSEX)<br>
-- Use either R or Python, or both for separate analysis and then combine the
+⦿ Stock to analyze and predict - SENSEX (S&P BSE SENSEX)<br>
+⦿ Use either R or Python, or both for separate analysis and then combine the
 findings to create a hybrid model<br>
-- You are free to select a different stock to analyze and news dataset as well
+⦿ You are free to select a different stock to analyze and news dataset as well
 while not changing the objective of the task.<br>
-- Here is the dataset : 
+⦿ Here is the dataset : 
 <a href="https://github.com/manishghoshal99/Stock-Market-Prediction-Using-Numerical-And-Textual-Analysis/blob/main/%5EBSESN.csv"> ^BSESN.csv </a><br><br><br>
   - Download historical stock prices from <a href="https://in.finance.yahoo.com/quote/%5EBSESN/history/">finance.yahoo.com</a><br>
   - Download textual (news) data from https://bit.ly/36fFPI6
@@ -21,6 +21,7 @@ while not changing the objective of the task.<br>
 
 > Demo:
 <a href="...">Stock Market Prediction using Numerical and Textual Analysis - To Be Added!</a>
+
 <br><br>
 <p align="center">
   <b><i>Let's connect! Find me on the web xD</i></b>

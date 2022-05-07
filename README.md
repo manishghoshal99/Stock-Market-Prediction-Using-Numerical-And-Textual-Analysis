@@ -21,7 +21,7 @@ while not changing the objective of the task.<br>
 <a href="https://github.com/manishghoshal99/Stock-Market-Prediction-Using-Numerical-And-Textual-Analysis/blob/main/Stock%20Market%20Prediction%20Using%20Numerical%20And%20Textual%20Analysis.ipynb">Stock Market Prediction using Numerical and Textual Analysis</a>
 
 > Demo:
-<a href="...">Stock Market Prediction using Numerical and Textual Analysis - To Be Added!</a>
+<a href="https://youtu.be/ismV95LsgZs">Stock Market Prediction using Numerical and Textual Analysis</a>
 
 <br><br>
 <p align="center">
